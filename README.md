@@ -6,7 +6,7 @@ Designed with simplicity, clarity, and extensibility in mind.
 
 ## Live Demo
 
-[**Vercel Link**]
+[**[Vercel Link](https://dag-builder-ten.vercel.app/)**]
 
 
 ##  Features
@@ -70,7 +70,7 @@ If you want to push this further:
 
 # Video Demo
 
-
+https://github.com/user-attachments/assets/6655b969-3b9c-4eac-ba83-fcd5635126fe
 
 # Deployment
 Deployed via Vercel.
